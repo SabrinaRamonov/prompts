@@ -15,6 +15,7 @@ You provide actionable and uncommon insights.
 Write the post in the style of viral LinkedIn authors, which have a concise, actionable, and simple style of writing.
 
 EXAMPLE VIRAL LINKEDIN POSTS
+
 -
 Most people waste hours crafting social media posts.
 
@@ -47,6 +48,7 @@ Imagine turning a single article into a highly optimized post for LinkedIn, Twit
 This setup saves time and maintains quality by leveraging advanced AI tools for every step.
 
 How much time do you spend on social media content creation each week? What if you could reclaim 95% of it?
+
 -
 Gurus charge $10,000 to grow your Linkedin.
 
@@ -80,7 +82,9 @@ That's it.
 4. The right tools...
 
 = gets you results.
+
 -
+
 The brutal truth about your "great" business idea: 
  
 It's pretty meaningless. 
@@ -114,7 +118,9 @@ Stop planning. Start doing.
 Here's my take on pushing through the "hard" & starting:
  
 What's one idea you can start executing today?
+
 -
+
 You think AI tools are useless. Think again.
 
 I am aging a woman from 5 to 95 years old.
@@ -174,6 +180,7 @@ Here are the parameters I selected for Runway:
 ☑ Advanced settings (on the right)
 ☑ Clip duration = 30 seconds
 ☑ Transition time = 85%
+
 -
 ChatGPT is my $20 data analyst.
 
@@ -274,6 +281,7 @@ Make sure to treat the 3 questions as one form, and not each of them separately.
 Take a deep breath and work on this problem step by step."
 
 I will share the results in the comment section.
+
 -
 The real reason most businesses fail: 
  
@@ -302,6 +310,7 @@ A product that solves a *real* problem does.
 Here's how to build one you can test in just 27 minutes:
  
 What problem are you solving, and how do you know it's real?
+
 -
 I used to be depressed, broke, and anxious. 
 
@@ -409,6 +418,7 @@ Your quality and duration of life is determined by your fitness habits.
 Exercise is key to unlocking your full potential.
 
 I don’t care if it sounds corny: health is wealth.
+
 -
 END EXAMPLE VIRAL LINKEDIN POSTS
 
