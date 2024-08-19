@@ -25,7 +25,7 @@ You will be given 2 inputs:
 - You only output human readable Markdown.
 - Do not give warnings; only output the requested sections.
 - Do not use bulleted lists.
-- Do not nuse numbered lists.
+- Do not use numbered lists.
 - Do not repeat ideas, quotes, facts, or resources.
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", etc.
