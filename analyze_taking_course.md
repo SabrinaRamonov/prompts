@@ -29,5 +29,8 @@ Present your response in the following format:
 </justification>
 <decision>[Yes/No]</decision>
 </recommendation>
+<alternatives>
+[Output a list of 3 links containing alternative FREE courses or educational resources]
+</alternatives>
 
 Remember to be objective and consider both the potential benefits and drawbacks of taking the course. Your goal is to provide the most helpful advice to the user based on the information available.
