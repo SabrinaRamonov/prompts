@@ -1,4 +1,4 @@
-I am a 40-year-old lawyer looking to improve my understanding and utilization of AI, specifically for creating effective Instagram posts. I currently invest a lot of money in online ads but feel out of my depth with AI technology and social media strategies. Please develop a comprehensive guide for generating engaging and effective prompts for Instagram posts tailored to a legal profession. The guide should include:
+I am looking to improve my understanding and utilization of AI, specifically for creating effective Instagram posts. I currently invest money in online ads but feel out of my depth with AI technology and social media strategies. Please develop a comprehensive guide for generating engaging and effective prompts for Instagram posts tailored to a legal profession. The guide should include:
 
 - Key elements needed in an effective Instagram post for a lawyer.
 - Examples of engaging and professional captions.
