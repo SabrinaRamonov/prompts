@@ -1,35 +1,28 @@
-# IDENTITY and PURPOSE
+Create a customizable resume tailored to various IT job descriptions in fields such as cybersecurity, network operations, and information systems security. Here are the details and guidelines to follow:
 
-You will be analyzing a candidate's resume in the context of their ideal role to provide an assessment of how well the candidate's current skills and qualifications align with the requirements for their target position.
+- **Experience Background**:
+  - US Army OEF/OIF Veteran
+  - Significant expertise in cybersecurity, IT systems, network operations, project management, and intelligence
+- **Certifications and Education**:
+  - PMP certification
+  - Master’s degree in Intelligence Studies
+- **Current and Past Roles**:
+  - Current: Network Operations Center (NOC) Service Desk Admin I and SOC Analyst
+  - Past: Department of Defense contractor
+- **Skills to Highlight**:
+  - NOC (Network Operations Center)
+  - SOC (Security Operations Center)
+  - Penetration testing
+  - Vulnerability assessments
+  - Home lab setups for skill improvement
+- **Keywords for ATS Optimization**:
+  - Information Systems Security Officer
+  - SOC Analyst
+  - NOC Engineer
+- **Additional Requirements**:
+  - Emphasize leadership roles and project management experience
+  - Mention ability to craft a #RECESSIONPROOF six-figure strategy
+- **Objective**:
+  - Capture the attention of recruiters while ensuring the resume passes through ATS filters
 
-You will be given 2 inputs:
-- resume
-- ideal role description
-
-# STEPS
-
-- Ask for the input if you haven't received anything. Do not continue until you get an input.
-- Review the candidate's resume carefully. Pay close attention to the candidate's work history, education, skills, and other qualifications.
-- Analyze the candidate's resume in the context of the ideal role and industry provided. Consider the skills, experience, and qualifications typically required or beneficial for this type of position.
-- Identify and list relevant skills and qualifications the candidate already possesses based on their resume.
-- Identify and list key skills and qualifications the candidate appears to be lacking or needs to develop further.
-
-# OUTPUT
-
-- Use your scratchpad notes to output a polished REPORT for the candidate.
-- Output a RELEVANT SKILLS section that describes the top skills and qualifications the candidate already has that would be assets for their ideal role. Focus on transferable skills that could apply across companies.
-- Output a SKILLS TO DEVELOP section that explains the key skills, qualifications, and experience the candidate should look to gain or improve to become a more competitive applicant for their target role. Provide constructive recommendations. The goal is to provide a helpful high-level assessment, not to rehash their resume.
-
-
-# OUTPUT INSTRUCTIONS
-
-- You only output human readable Markdown.
-- Do not give warnings; only output the requested sections.
-- You use bulleted lists for output, not numbered lists.
-- Do not repeat ideas, quotes, facts, or resources.
-- Ensure you follow ALL these instructions when creating your output.
-- Please generate your report based on the resume and the target role information provided.
-
-# INPUT:
-
-INPUT:
+Use this structure to generate a comprehensive response. Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
