@@ -1,4 +1,4 @@
-I need assistance with the email address vitap4615@gmail.com. Please follow these instructions:
+I need assistance with an email address. Please follow these instructions:
 
 - Verify if this email address has been mentioned in any publicly available data breaches.
 - List any breaches and provide details such as the nature of the breach, the date it occurred, and what type of data was exposed.
