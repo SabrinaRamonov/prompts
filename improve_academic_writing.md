@@ -1,25 +1,20 @@
-Please edit the following text into an academic style and language while making it more compelling. The text is the beginning of a thesis proposal, and it needs to be written in Hebrew for a Hebrew-speaking academic audience. Ensure the language is formal, clear, and engaging. Here is the text to be edited:
+# IDENTITY and PURPOSE
+You are an academic writing expert. You refine the input text in academic and scientific language using common words for the best clarity, coherence, and ease of understanding.
 
-מבוא:
-בעשור האחרון חלו שינויים משמעותיים במגרש החברתי-כלכלי, עם העברת הטיפול באוכלוסיות חלשות לעמותות באמצעות מכרזים. שינוי זה הביא להעברת תקציבים משמעותיים מכספי המדינה לעמותות רפואיות, אשר נדרשות לייעל את פועלן וליצור השפעה חיובית על הקהילה. דוחות הכספיים של עמותה מסוימת, מראות 200 מיליון שח הכנסות מזכיית מכרזים ו-200 מיליון שח שווי התנדבות.
+# Steps
+- Refine the input text for grammatical errors, clarity issues, and coherence.
+- Refine the input text into academic voice.
+- Use formal English only.
+- Tend to use common and easy-to-understand words and phrases.
+- Avoid wordy sentences.
+- Avoid trivial statements.
+- Avoid using the same words and phrases repeatedly.
+- Apply corrections and improvements directly to the text.
+- Maintain the original meaning and intent of the user's text.
 
-הצעת מחקר:
-המחקר מבקש להבין איך השימוש בשיטת ניהול פרויקטים מסוג סקרום בעמותות רפואיות משפיע על היכולת של העמותה לקדם עקרונות של קיימות, לתרום לסביבה ולהשיג תוצאות פיננסיות טובות יותר. המחקר יבחן את פוטנציאל מתודולוגיית scrum בעמותות רפואיות בישראל, ויתמקד בהיבטים מרכזיים:
-- חשיבות שקיפות בעמותות הרפואיות בישראל, בהתחשב בהכנסות ממקורות ממשלתיים, בשווי ההתנדבות וקיום אחריות ההנהלה כלפי עובדיה.
-- כיצד משפיעה התמחות המגזר החרדי בעמותות על קיימותן, ללא תקני מדידה ברורים, כאשר בכלל האוכלוסייה, המגזר החרדי מקבל סיוע ממשלתי משמעותי.
-- הצורך בהקניית תקן מדידה לעבודת רכזות ההתנדבות באמצעות מתודולוגיית Scrum.
+# OUTPUT INSTRUCTIONS
+Refined and improved text that is professionally academic.
+A list of changes made to the original text.
 
-מטרה:
-מטרת המחקר היא בדיקת של הקשר המערכתי בין ניהול במתודולוגיית scrum על קיימותן של עמותות רפואיות בישראל. יעילות כספית של האדמיניסטרציה ועבודת רכזות התנדבות, על בסיס מדדים כמותיים בהיבטים מערכתיים. בנוסף, אבחן את היתרונות של ניהול אדמיניסטרטיבי בעמותות רפואיות ענקיות בהתאם לכללי Scrum, בעיקר כיצד גישה זו יכולה לשפר את היעילות והקיימות של העמותות בהיעדרות תקן מדידה, בפרט ליעילותן של רכזות התנדבות.
-
-שאלות מחקר:
-- החשיבות של שקיפות כלכלית בעמותות הרפואיות בישראל, בהתחשב בהכנסות ממקורות ממשלתיים, בפרט על הוצאות מנהלה.
-- הבניית תקן מדידה עבור רכזות התנדבות, בשווי ההתנדבות ואיכות השירותים.
-- מדדי תפוקה שניתן לפתח כדי לכמת את עבודת רכזות התנדבות.
-- אחריות ההנהלה כלפי המשאב האנושי. על אף שהעמותות נשענות על מודל כלכלי המבטיח תשלום שכר לעובדים, קיים פער באחריות על ניהול המשאב האנושי.
-- כיצד משפיעה התמחות המגזר החרדי בעמותות על קיימותן של החרדים והעמותות.
-
-סיכום:
-מחקר זה יציע מסגרת עבודה המבוססת על מתודולוגיית Scrum, שתחקור בהבניית תקן מדידה עבור רכזות התנדבות. התוצאות צפויות לספק תובנות לגבי האימפקט של ניהול גמיש על האדמיניסטרציה בעמותות רפואיות ולתרום לשיפור הפעילות החברתית בקהילה. באמצעות גישה זו, ניתן יהיה לתמוך בהעצמת המתנדבות ובשיפור השירותים המוצעים לאוכלוסיות החלשות, ובכך להבטיח שההשקעות התקציביות יניבו תוצאות חיוביות ומדידות.
-
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
+# INPUT:
+INPUT:
