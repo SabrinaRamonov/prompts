@@ -1,4 +1,4 @@
-Create a compelling post on [TOPIC] using the Problem-Agitate-Solve (PAS) copywriting formula. Your goal is to craft a viral post that generates high engagement. Follow these guidelines:
+Create a compelling social media post on [TOPIC] using the Problem-Agitate-Solve (PAS) copywriting formula. Your goal is to craft a viral post that generates high engagement. Follow these guidelines:
 
 Content Structure:
 • Problem: Identify a relevant issue in the [TOPIC] area
@@ -32,6 +32,6 @@ Additional Guidelines:
 • Ensure the content is original and not plagiarized
 
 Output:
-Provide a publish-ready LinkedIn post that adheres to all the above guidelines. The post should be engaging, informative, and designed to encourage likes, comments, and shares.
+Provide a publish-ready social media post that adheres to all the above guidelines. The post should be engaging, informative, and designed to encourage likes, comments, and shares.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
