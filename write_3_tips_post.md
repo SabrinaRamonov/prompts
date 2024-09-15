@@ -1,4 +1,4 @@
-# 3 Powerful Tips for Success: Crafting an Engaging Article
+# Write 3 Tips Post
 
 ## Input Required:
 • Topic: [Specify your chosen subject]
