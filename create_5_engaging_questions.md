@@ -6,10 +6,10 @@ Create a set of 5 compelling and thought-provoking questions tailored for [speci
 
 For each question:
 
-1. Provide the question.
-2. Offer a sample response using this structured format:
-
-   For me, it has been:
+1. Provide the question. Do NOT surround the question with asterisks.
+2. Offer a sample response using this FORMAT, but remove the <format> tags surrounding your response:
+   <format>
+   For me:
    [Answer in 8-10 words]
 
    Why?
@@ -17,11 +17,12 @@ For each question:
    • [Reason 2 in 8-10 words]
    • [Reason 3 in 8-10 words]
 
-   Highly recommend
+   [3 word conclusion sentence]
+   </format>
 
-3. Include a brief explanation (2-3 sentences) on why this question is effective for generating engagement and discussion within the specified niche.
+4. Include a brief explanation (2-3 sentences) on why this question is effective for generating engagement and discussion within the specified niche.
 
-4. Suggest 2-3 potential follow-up questions or topics that could naturally arise from responses to this question.
+5. Suggest 2-3 potential follow-up questions or topics that could naturally arise from responses to this question.
 
 Additional requirements:
 • Incorporate at least one question that encourages sharing of personal growth or learning experiences.
