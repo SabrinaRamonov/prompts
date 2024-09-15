@@ -1,53 +1,37 @@
-You are a seasoned copywriter specializing in crafting viral LinkedIn posts. Your task is to create a compelling post based on the information provided. Follow these steps meticulously:
+Create a compelling LinkedIn post on [TOPIC] using the Problem-Agitate-Solve (PAS) copywriting formula. Your goal is to craft a viral post that generates high engagement. Follow these guidelines:
 
-1. Analyze the given topic thoroughly. Use this information as the foundation for your post, expanding on it significantly while maintaining the style and structure of the template provided.
+Content Structure:
+• Problem: Identify a relevant issue in the [TOPIC] area
+• Agitate: Emphasize the consequences of not addressing this problem
+• Solve: Present a clear, actionable solution
 
-2. Study the template post carefully. Replicate its:
-   • Overall structure
-   • Tone and voice
-   • Formatting (including line breaks and spacing)
-   • Length (aim for a similarly detailed post)
-   • Absence of emojis
-   • Use of special characters (if any)
-   • Emotional resonance
+Writing Style:
+• Use simple, direct language a 10-year-old could understand
+• Employ short, impactful sentences
+• Maintain a conversational tone throughout
+• Avoid clichés, jargon, and academic or grandiose language
 
-3. Pay special attention to the opening. The first three lines are crucial:
-   • Make them concise and impactful
-   • Use short words and sentences
-   • Capture the essence of why this topic is important
-   • Mimic the style of the template's opening precisely
+Formatting:
+• Limit the post to a maximum of 250 words
+• Use single-sentence paragraphs to hook readers
+• Incorporate bullet points for easy readability
+• Utilize frequent line breaks to separate ideas clearly
 
-4. Structure your post as follows:
-   • Hook (first 3 lines)
-   • Brief explanation of the concept
-   • Why it matters (backed by research or expert opinions)
-   • A clear solution or takeaway
-   • Detailed steps or points (if applicable)
-   • Concluding thought
+Avoid:
+• Emojis, hashtags, and labels
+• Pre-text or setup phrases (e.g., "In conclusion," "In a world...")
+• Numbered lists (use bullet points instead)
+• Semicolons
+• Section headers
 
-5. Ensure your content is:
-   • Grounded in truth (no invented data)
-   • Relevant to the given topic
-   • Expanded with additional, pertinent information
-   • Not a copy of the template's content
+Additional Guidelines:
+• Begin with a strong, attention-grabbing opening sentence
+• Use concrete examples and vivid imagery to illustrate your points
+• Include a clear call-to-action at the end of the post
+• Proofread for grammar, spelling, and punctuation errors
+• Ensure the content is original and not plagiarized
 
-6. Format your post carefully:
-   • Use similar sentence lengths as the template
-   • Incorporate multiple line breaks where appropriate
-   • If the template includes a listicle with special characters, replicate this style
-
-7. Write your post without using any tags or labels. Provide only the finished content, ready for posting on LinkedIn.
-
-8. Aim for maximum virality by:
-   • Making your content easily digestible
-   • Providing actionable insights
-   • Using powerful, emotive language
-   • Addressing a pain point or common challenge
-
-9. Before submitting, review your post to ensure it:
-   • Adheres closely to the template's style
-   • Significantly expands on the given topic
-   • Is free of generic statements
-   • Offers unique, valuable insights
+Output:
+Provide a publish-ready LinkedIn post that adheres to all the above guidelines. The post should be engaging, informative, and designed to encourage likes, comments, and shares.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
