@@ -29,6 +29,4 @@ Create a compelling and informative social media post about the top mistakes peo
 
 • Optimize the post for the specific social media platform (e.g., character limit for Twitter, use of carousel posts for Instagram, etc.)
 
-• Create a visually appealing graphic or infographic summarizing the key points of the post
-
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
