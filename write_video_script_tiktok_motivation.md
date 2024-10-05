@@ -1,12 +1,8 @@
-Create a TikTok script based on the book "My Name is Marcus" and the historical figure Marcus Garvey. The script should:
+Create a comprehensive response that includes a generic description, hashtags, and keywords for a series of TikTok videos featuring 365 quotes by Marcus Garvey. Focus on leveraging best practices for TikTok content creation to enhance user engagement. Your task is to:
 
-- Provide a brief introduction to the book "My Name is Marcus," highlighting its main themes and plot.
-- Introduce Marcus Garvey, outlining his historical significance, key achievements, and influence on the subject matter of the book.
-- Connect the themes of the book with the life and legacy of Marcus Garvey, showcasing how his work or ideology is reflected or explored in the book.
-- Incorporate engaging elements suitable for TikTok, such as:
-  - A catchy and intriguing opening line
-  - Visual or verbal hooks to maintain viewer interest
-  - A clear and compelling call-to-action for viewers, such as encouraging them to read the book or learn more about Marcus Garvey.
-- Ensure the tone is engaging and suitable for a TikTok audience, potentially incorporating popular TikTok trends or styles.
+- Write a versatile and captivating generic description that encapsulates the essence and themes of Marcus Garvey's quotes, such as empowerment, leadership, and unity.
+- Generate a list of relevant and trending hashtags that align with the themes of Marcus Garvey's quotes and are suitable for a TikTok audience looking for inspiration and motivation.
+- Produce a list of effective keywords that can help increase the visibility and reach of the videos on TikTok.
+- Incorporate TikTok best practices, such as optimal video length, engaging visuals, calls-to-action, and any other strategies that can improve video performance and audience engagement.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
