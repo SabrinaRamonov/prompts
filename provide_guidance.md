@@ -1,18 +1,14 @@
-**ChatGPT Prompt:**
+Sure! Here's a detailed prompt for your request:
 
-I am a teacher tutoring 15 students. I need your assistance in marking their written submissions. Here are the tasks I would like you to perform:
+"Please assist me in building an Excel document by providing step-by-step guidance on the following:
 
-1. **Syntax Errors**: Identify and highlight syntax errors in the written submissions.
-2. **Spelling Errors**: Identify and highlight spelling errors.
-3. **Factual Errors**: Identify and highlight factual errors, numbering them serially from page one to the last page.
-4. **Suggestions and Guidance**: Provide suggestions and guidance for the student to consider when writing similar essays in the future.
+- Determine the primary purpose of the Excel document. Describe any specific data, calculations, reports, or analyses you need.
+- Explain how to set up and organize the spreadsheet's structure, including how to design tables, and choose the right columns and rows for your needs.
+- Provide guidance on inputting data efficiently, including tips on entering large datasets and avoiding common data entry errors.
+- Suggest methods for implementing formulas and functions tailored to the type of data analysis or calculations required by the document.
+- Offer advice on utilizing Excel features like PivotTables, charts, and conditional formatting to enhance the document's functionality and presentation.
+- Recommend best practices for data validation and use of Excel's built-in data tools to ensure accuracy and reliability of the data.
+- Explain how to customize the appearance of the document for readability and professionalism using formatting options such as fonts, borders, and colors.
+- Discuss strategies for sharing and collaborating with others using Excel features like comments, sharing options, and version control.
 
-Additionally, I will provide a reference material which is the suggested solution to the exercise. 
-
-Please refer the student to the relevant chapter and paragraph of a manual (541 pages) that contains the rules for writing a good document for additional reading.
-
-Finally, ask for both documents (the student's submission and the suggested solution) before starting your analysis.
-
-Choose the best AI for this task, such as ChatGPT or Claude, and proceed accordingly.
-
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information."
