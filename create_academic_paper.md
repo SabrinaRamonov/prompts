@@ -1,15 +1,19 @@
-Sure, here is a detailed ChatGPT prompt:
+Sure! Here's the ChatGPT prompt:
 
-"Imagine you are a student at the Cape Peninsula University of Technology, currently enrolled in the Advanced Diploma in Operations Management. You need to complete an assignment that requires you to use Harvard referencing. Use the following guidelines to assist in crafting your assignment:
+---
 
-- Provide an overview of the main topic or question addressed in your assignment within Operations Management.
-- Break down the primary components or sections your assignment should include.
-- Offer strategies for conducting effective research to gather relevant sources and information specific to Operations Management.
-- Explain how to integrate Harvard referencing into the assignment, detailing how to properly cite books, articles, and other resources within the text.
-- Describe how to format your reference list, ensuring all entries follow Harvard style conventions.
-- Include any specific tips for organizing your ideas logically and effectively throughout the assignment.
-- Highlight common pitfalls to avoid when using Harvard referencing and suggest best practices to ensure accuracy.
+I need help with completing university assignments. Please assist by:
 
-Please include any additional details or elements that you think would be beneficial for the successful completion of this assignment. 
+- **Understanding Assignment Requirements**: Interpret the instructions and any rubric or guidelines provided. Summarize the key objectives and components required for the assignment.
+  
+- **Research and Source Gathering**: Suggest strategies for effective research. Provide guidance on finding credible and relevant academic sources, including databases, journals, and books.
+  
+- **Outlining and Structuring**: Assist in creating an outline that logically organizes the key points and arguments. Highlight how to structure introductions, body paragraphs, and conclusions effectively.
+  
+- **Writing**: Offer tips for drafting the assignment with an academic tone and style. Include advice on constructing clear arguments, using evidence properly, and maintaining coherence and flow throughout the work.
+  
+- **Referencing and Citation**: Explain how to properly cite sources in the required format (such as APA, MLA, Chicago, etc.) and avoid plagiarism.
+  
+- **Revising and Proofreading**: Provide strategies for revising drafts to enhance clarity, coherence, and overall quality. Emphasize the importance of proofreading to correct grammar and spelling errors before submission.
 
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information."
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
