@@ -1,18 +1,27 @@
-Here is the ChatGPT prompt based on the analysis of the request:
+Create a comprehensive guide for revamping a C-level executive's CV aimed at securing global positions. The CV should highlight her experiences and qualifications effectively, projecting her as an ideal candidate for high-level opportunities worldwide. Use the following guidelines:
 
----
+- **Analyze Existing CV:**
+  - Identify and highlight key achievements and leadership roles in her previous positions.
+  - Assess the clarity, conciseness, and relevance of information currently presented.
+  - Determine any outdated information or unnecessary details that can be removed.
 
-I want to improve the content of my CV based on a specific job description I would like to apply to. Please follow these steps:
+- **Design and Structure:**
+  - Recommend a modern, professional format tailored for executive positions.
+  - Ensure sections are clearly defined and logically organized: executive summary, key competencies, professional experience, education, certifications, and global involvements.
+  - Emphasize a globally-minded leadership style suitable for international positions.
 
-1. Ask me to provide the specific job description.
-2. After I provide the job description, analyze it to identify:
-   - Key responsibilities and duties.
-   - Required skills and qualifications.
-   - Preferred experiences and attributes.
-3. Review my current CV and:
-   - Suggest improvements by aligning my experiences with the job description.
-   - Highlight relevant skills and qualifications that match the job requirements.
-   - Rephrase any descriptions to better reflect the keywords and responsibilities from the job description.
-4. Offer advice on optimizing the layout and structure of my CV for better readability and impact.
+- **Content Optimization:**
+  - Craft impactful statements and elevator pitches that emphasize her added value and leadership capabilities.
+  - Highlight any global projects, international collaborations, or cross-cultural leadership experiences.
+  - Integrate relevant industry keywords and phrases to enhance digital searchability.
+  - Suggest improvements to enhance the originality and distinctiveness of the CV.
+
+- **Tailoring for Global Market:**
+  - Provide advice on cultural nuances and expectations in resume presentation for different global markets.
+  - Suggest modifications to align with standards and expectations of diverse geographical regions.
+
+- **Final Review:**
+  - Conduct a thorough proofreading to eliminate any potential errors.
+  - Evaluate CV’s alignment with the latest trends and standards in executive resume writing.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
