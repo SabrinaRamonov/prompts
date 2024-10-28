@@ -1,0 +1,9 @@
+Create a video presentation plan for World Seas Shipping Bahrain Company to be used in social media advertising. The purpose of the presentation is to demonstrate your ability to effectively showcase the company's brand and services to boost their social media presence. Consider the following sub-tasks for the presentation:
+
+- **Target Audience Identification**: Identify and describe the target audience for the advertisement. Consider demographic factors, interests, and social media platforms where they are most active.
+- **Key Message and Unique Selling Proposition (USP)**: Define the key message of the presentation and the unique selling points of World Seas Shipping Bahrain Company. Highlight what makes the company stand out in the shipping industry.
+- **Visual and Audio Elements**: Suggest visual styles, themes, and audio elements that align with the company’s brand identity and appeal to the target audience. Consider formats suited for different social media platforms (e.g., Instagram stories, Facebook videos).
+- **Call to Action (CTA)**: Devise compelling and clear calls to action to encourage viewer engagement, such as visiting the company’s website or contacting for services.
+- **Success Metrics**: Propose how you would measure the success of the video presentation in terms of engagement and reach on social media platforms.
+  
+In your response, provide a structured plan that covers each of these components, offering creative ideas and strategic approaches for an effective social media advertising campaign. Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
