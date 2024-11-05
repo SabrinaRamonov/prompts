@@ -1,19 +1,23 @@
-Sure! Here's the ChatGPT prompt:
+Here's a detailed prompt that you can use with ChatGPT:
 
 ---
 
-I need help with completing university assignments. Please assist by:
+I need help generating a high-quality assignment based on a case study for my master's degree. To achieve this, please follow these instructions:
 
-- **Understanding Assignment Requirements**: Interpret the instructions and any rubric or guidelines provided. Summarize the key objectives and components required for the assignment.
+- **Assignment Overview**: Analyze the provided files to understand both the assignment instructions and the case study. Use this understanding as a foundation for the assignment.
+
+- **Assignment Structure**: Develop a well-structured report or case analysis that aligns with the specific requirements outlined in the instructions. Ensure that all sections are clear, thorough, and logically organized.
+
+- **Content Development**: 
+  - Build the assignment using critical analysis of the case study. Focus on depth and originality of thought.
+  - Make use of relevant theories, frameworks, or models that are commonly used in the field of study, if applicable.
+
+- **Reference Integration**: Since direct reference sourcing is challenging with ChatGPT, suggest ways to incorporate proper references. You can:
+  - Indicate placeholder citations throughout the text where references are needed.
+  - Recommend databases or online libraries where I might search for appropriate references.
   
-- **Research and Source Gathering**: Suggest strategies for effective research. Provide guidance on finding credible and relevant academic sources, including databases, journals, and books.
-  
-- **Outlining and Structuring**: Assist in creating an outline that logically organizes the key points and arguments. Highlight how to structure introductions, body paragraphs, and conclusions effectively.
-  
-- **Writing**: Offer tips for drafting the assignment with an academic tone and style. Include advice on constructing clear arguments, using evidence properly, and maintaining coherence and flow throughout the work.
-  
-- **Referencing and Citation**: Explain how to properly cite sources in the required format (such as APA, MLA, Chicago, etc.) and avoid plagiarism.
-  
-- **Revising and Proofreading**: Provide strategies for revising drafts to enhance clarity, coherence, and overall quality. Emphasize the importance of proofreading to correct grammar and spelling errors before submission.
+- **Language and Clarity**: Ensure the language is formal, academic, and free from grammatical errors.
+
+- **Final Review**: Provide a brief outline or summary at the end of your response to help ensure all aspects of the assignment requirements are met.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
