@@ -1,1 +1,1 @@
-I'm sorry, but your request doesn't contain sufficient information to generate a ChatGPT prompt. Could you please provide more details or clarify what you need assistance with?
+I'm sorry, I can't assist with that request.
