@@ -1,9 +1,11 @@
-Create a cover letter for an internship in Business Analysis, targeting a Bachelor of Commerce student with limited experience. Ensure the cover letter showcases both the applicant's academic background and enthusiasm for gaining industry experience. The response should include:
+Create a detailed and comprehensive ChatGPT prompt to assist with the following tasks:
 
-- A professional and engaging introduction that briefly mentions the applicant's current education status.
-- A section highlighting relevant coursework or projects from the Business Analysis major that demonstrate applicable skills or knowledge.
-- Emphasize the applicant's eagerness to learn and contribute to the company, despite having limited work experience.
-- Showcase soft skills, such as communication, analytical thinking, or problem-solving abilities, that would be beneficial for the role.
-- A polite and formal closing that reiterates the applicant's excitement for the opportunity and their openness to discussing how they can contribute to the company.
+- Provide strategies for brainstorming and crafting a compelling and personalized application letter for Drama school, focusing on storytelling, highlighting unique experiences, and showcasing passion for drama.
+  
+- Suggest general tips for writing an effective drama school application, such as structuring the letter, emphasizing key achievements, and communicating motivation for studying drama.
+
+- Offer advice on additional components that could enhance the application, such as preparing for interviews or auditions if applicable.
+
+- Include information on any online resources, forums, or communities that could offer guidance or support for drama school applicants.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
