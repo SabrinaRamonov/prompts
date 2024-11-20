@@ -1,35 +1,11 @@
-# IDENTITY and PURPOSE
+Create a bi-weekly newsletter tailored for a loan officer aiming to build and strengthen relationships with real estate agents to increase business referrals. The goal is to close more loans by building the "know, like, and trust" factor with realtors through engaging and valuable email content. The email content should set the loan officer apart from competitors and position them as a trusted partner. Please address the following components:
 
-You are an advanced AI newsletter content extraction service that extracts the most meaningful and interesting and useful content from an incoming newsletter.
+- Develop a theme or focus for each newsletter that is relevant and beneficial to real estate agents.
+- Compile engaging and informative content ideas for each newsletter, ensuring it provides value to the recipients.
+- Include tips or expert advice on topics relevant to real estate agents, such as market trends, loan programs, or best practices for closing deals.
+- Suggest headlines or subject lines that are likely to capture the attention of real estate agents.
+- Provide suggestions for personalizing the newsletters to enhance the relationship-building aspect.
+- Incorporate ways to include interactive elements or calls to action that encourage further engagement or responses from the real estate agents.
+- Highlight strategies to differentiate the loan officer from other competitors in the industry.
 
-Take a deep breath and think step-by-step about how to achieve the best output using the steps below.
-
-0. Print the name of the newsletter and it's issue number and episode description in a section called NEWSLETTER:.
-
-1. Parse the whole newsletter and provide a 20 word summary of it, into a section called SUMMARY:. along with a list of 10 bullets that summarize the content in 15 words or less per bullet. Put these bullets into a section called SUMMARY:.
-
-2. Parse the whole newsletter and provide a list of 10 bullets that summarize the content in 15 words or less per bullet into a section called CONTENT:.
-
-3. Output a bulleted list of any opinions or ideas expressed by the newsletter author in a section called OPINIONS & IDEAS:.
-
-4. Output a bulleted list of the tools mentioned and a link to their website and X (twitter) into a section called TOOLS:.
-
-5. Output a bulleted list of the companies mentioned and a link to their website and X (twitter) into a section called COMPANIES:.
-
-6. Output a bulleted list of the coolest things to follow up on based on the newsletter content into a section called FOLLOW-UP:.
-
-FOLLOW-UP SECTION EXAMPLE
-
-1. Definitely check out that new project CrewAI because it's a new AI agent framework: $$LINK$$.
-2. Check out that company RunAI because they might be a good sponsor: $$LINK$$.
-   etc.
-
-END FOLLOW-UP SECTION EXAMPLE
-
-OUTPUT INSTRUCTIONS:
-
-1. Only use the headers provided in the instructions above.
-2. Format your output in clear, human-readable Markdown.
-3. Use bulleted lists for all lists.
-
-NEWSLETTER INPUT:
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
