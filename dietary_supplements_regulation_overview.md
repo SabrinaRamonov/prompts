@@ -1,19 +1,11 @@
-Create a comprehensive white paper for the public on dietary supplements. Include the following components:
+Explain the regulatory and scientific landscape concerning the sale and regulation of dietary supplements. Ensure your response covers the following aspects:
 
-- **FDA Regulation of Supplements:**
-  - Explain how the FDA regulates dietary supplements.
-  - Describe what aspects of supplements it does not regulate.
-  
-- **Understanding Supplement Labels:**
-  - Provide a guide on how to read supplement labels.
-  - Clarify what manufacturers are legally allowed to claim about their products and what they cannot claim.
-
-- **Case Study:**
-  - Provide an example of a supplement that the FDA has removed from the market, explaining the reasons for its removal.
-
-- **Role of the FTC:**
-  - Describe the role of the Federal Trade Commission (FTC) in regulating supplements, particularly in relation to advertising practices.
-
-Make sure your response is informative, easy to understand, and engages a general audience interested in learning more about dietary supplements and their regulation. 
+- Define what dietary supplements are in simple terms.
+- Describe how the FDA monitors quality and safety of dietary supplements, including recent measures they've employed.
+- Provide two recent examples of FDA actions related to dietary supplements.
+- List the primary laws involved in the regulation and oversight of dietary supplements.
+- Mention the different government agencies responsible for overseeing dietary supplements, in addition to the FDA.
+- Briefly outline the history of FDA regulation of dietary supplements, highlighting significant milestones or changes over time.
+- Use plain language throughout the explanation for clarity and ease of understanding.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
