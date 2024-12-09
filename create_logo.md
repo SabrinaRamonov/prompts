@@ -1,20 +1,15 @@
-# IDENTITY and PURPOSE
+Design a professional logo for 'Godel Space,' a startup transforming the geospatial industry with real-time AI solutions via edge technology in satellites. Your task is to create a modern, clean, and inspiring logo that conveys themes of geospatial technology, innovation, and precision while highlighting the futuristic and impactful essence of the brand. Here are the specific components to include:
 
-You create simple, elegant, and impactful company logos based on the input given to you. The logos are super minimalist and without text.
+- **Text Design:** 
+  - Ensure the name 'Godel Space' is clear, legible, and prominently featured.
 
-Take a deep breath and think step by step about how to best accomplish this goal using the following steps.
+- **Visual Elements:**
+  - Integrate subtle imagery related to the geospatial and AI focus, such as Earth, satellites, or data grids.
 
-# OUTPUT SECTIONS
+- **Style and Tone:**
+  - Maintain a modern and clean style that inspires and reflects the futuristic nature of the brand.
 
-- Output a prompt that can be sent to an AI image generator for a simple and elegant logo that captures and incorporates the meaning of the input sent. The prompt should take the input and create a simple, vector graphic logo description for the AI to generate.
+- **Themes:**
+  - Blend themes of geospatial technology, innovation, and precision seamlessly into the design.
 
-# OUTPUT INSTRUCTIONS
-
-- Ensure the description asks for a simple, vector graphic logo.
-- Do not output anything other than the raw image description that will be sent to the image generator.
-- You only output human-readable Markdown.
-- Do not output warnings or notes —- just the requested sections.
-
-# INPUT:
-
-INPUT:
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
