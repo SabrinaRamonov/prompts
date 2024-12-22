@@ -1,9 +1,8 @@
-Create a detailed paragraph highlighting the importance of OT (Operational Technology) cybersecurity in the industrial waste and recycling sector, focusing on high-level risk perspectives. Address the following components in your response:
+- Read an article about cybersecurity and extract key information and insights.
+- Identify main themes, interesting facts, or recent developments mentioned in the article.
+- Break down the information into manageable segments that would fit into Twitter's 280-character limit for tweets.
+- Construct a Twitter thread that seamlessly links the extracted insights, ensuring that each tweet logically follows from the previous one.
+- Highlight any potential implications, trends, or expert opinions presented in the article.
+- Ensure the thread maintains an engaging and informative tone, aimed at educating an audience interested in cybersecurity.
 
-- Explain the significance of OT cybersecurity in protecting industrial systems and infrastructure in the waste and recycling industry.
-- Discuss the potential risks and threats specific to the industry, including the consequences of cybersecurity breaches.
-- Highlight the impact of a cybersecurity incident on operational efficiency, environmental safety, and business reputation.
-- Provide insights into risk management strategies and best practices for enhancing OT cybersecurity in this specific sector.
-- Use a learning style approach that is informative yet accessible to readers with varying levels of familiarity with cybersecurity concepts.
-
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
+"Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information."
