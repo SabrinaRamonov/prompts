@@ -1,10 +1,21 @@
-Create a 30-second script for a faceless motivational TikTok video. The script should emulate the motivational style and tone of well-known speakers Tony Robbins and Alex Hormozi. Focus on delivering a message that is powerful, inspiring, and concise, suitable for engaging TikTok audiences. Consider the following elements:
+Craft a comprehensive guide for a music artist on creating viral content videos to promote their music. Consider including the following elements in your response:
 
-- **Tone and Style**: Emulate Tony Robbins' energetic and empowering delivery combined with Alex Hormozi's practical and straightforward approach.
-- **Content**: Include themes of motivation, empowerment, and actionable steps that encourage the viewer towards personal growth or taking decisive action.
-- **Structure**: The script should have a clear beginning, middle, and end that can easily fit into a 30-second timeframe.
-- **Audience Engagement**: Include a call to action or thought-provoking question to encourage interaction or reflection from viewers.
+- **Understanding the Audience**: Explain how to identify and analyze the target audience for the music. Discuss ways to use this information to tailor content that resonates with them.
+  
+- **Platform Optimization**: Highlight the importance of choosing the right platform(s) such as TikTok, Instagram, or YouTube, and outline strategies for optimizing content for each specific platform.
+  
+- **Content Creativity and Uniqueness**: Provide tips on brainstorming and developing creative and unique video concepts that align with the artist’s brand and music style.
+  
+- **Use of Trends and Challenges**: Discuss how to effectively leverage current trends or challenges to increase visibility and engagement with the content.
+  
+- **Collaboration**: Suggest strategies for collaborating with other artists, influencers, or video producers to amplify reach and effectiveness.
+  
+- **Engagement Techniques**: Offer ideas for making videos engaging and interactive, encouraging viewers to share, comment, or create their own related content.
+  
+- **Consistency and Timing**: Explain the importance of posting content consistently and at optimal times to maximize exposure.
+  
+- **Analyzing Performance**: Describe methods for monitoring and analyzing the performance of the content to iteratively improve its impact.
 
-Remember, the goal is to inspire and motivate in a brief but impactful manner.
+- **Call to Action**: Include the importance of a clear call to action in the video, prompting viewers to listen to the music, share the video, or follow the artist on social media.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
