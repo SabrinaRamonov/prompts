@@ -1,0 +1,8 @@
+- Please draft a seminar paper similar in style and structure to an example provided (assuming there is an existing file you have access to for reference), but focus on a different company.
+- Identify the core elements and structure of the existing seminar paper, including sections like introduction, company overview, market analysis, strategic evaluation, and conclusion.
+- Choose a company for the new seminar paper. Here are some options if you don't have one in mind: Apple, Samsung, Tesla, or Amazon.
+- Research and provide up-to-date information about the chosen company, including their market position, financial performance, key competitors, and recent developments.
+- Analyze and discuss the company's strategies, challenges, and opportunities in its industry.
+- Ensure the seminar paper is well-organized, clear, and follows academic writing standards, including citations and references where necessary.
+- Make sure the length and depth of the content are consistent with the original example provided.
+- Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
