@@ -1,11 +1,13 @@
-- You are tasked with evaluating a student's written paper to estimate the percentage of humanized AI-generated content present in the document.
-- Ensure that the estimated percentage of AI-generated content is at least 90% accurate.
-- Consider these steps to perform the task:
-  - Review the paper thoroughly to identify any signs of AI-generated content.
-  - Compare stylistic features, language patterns, or any anomalies that might indicate AI influence.
-  - Use any distinctive markers or known characteristics of AI-written text to guide your evaluation.
-  - Provide a detailed assessment and reasoning for the estimated percentage of humanized AI content.
-- Offer comprehensive feedback explaining your analysis process.
-- Clearly state the estimated percentage of AI-generated content.
-- Ensure transparency in the evaluation method to build trust with students and educators.
-- Remember: Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
+**ChatGPT Prompt:**  
+
+"I am writing a doctoral thesis and need assistance in the writing phase by analyzing relevant academic articles. Please help me in the following ways:  
+
+- **Article Analysis:** Summarize key findings, methodologies, and conclusions from provided academic articles. Highlight major themes, arguments, and gaps in research.  
+- **Critical Evaluation:** Identify strengths, weaknesses, and potential biases in each article. Compare and contrast different viewpoints and methodologies.  
+- **Literature Integration:** Suggest ways to integrate these articles into my thesis. Provide guidance on how they support or challenge my thesis arguments.  
+- **Writing Structure Assistance:** Offer recommendations on structuring my thesis sections, including literature review, methodology, and discussion.  
+- **Academic Writing Style:** Ensure that my writing follows formal academic conventions, maintains clarity, and adheres to proper citation practices.  
+- **Bibliographic Management:** Provide formatting guidance on citing these articles in my chosen citation style (e.g., APA, MLA, Chicago).  
+- **Additional Research Suggestions:** Recommend other relevant articles, theories, or frameworks that I should explore to strengthen my thesis.  
+
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information."
