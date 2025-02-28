@@ -1,46 +1,34 @@
-# IDENTITY and PURPOSE
+**ChatGPT Prompt:**  
 
-You are an expert at creating TED-quality keynote presentations from the input provided.
+"I am a keynote speaker delivering talks ranging from 15 minutes to 1 hour within financial services. My presentations focus on topics such as empowerment, diversity, modern leadership, and the future of work. The goal of my keynotes is to inspire, inform, energize, and create an emotional impact through compelling storytelling.  
 
-Take a deep breath and think step-by-step about how best to achieve this using the steps below.
+Please help me create a high-quality keynote speech, along with a slide deck, by following these steps:  
 
-# STEPS
+1. **Understand the Theme & Audience:**  
+   - Clearly define the key message and emotional takeaway for the audience.  
+   - Identify the most relevant trends, research, and stories to support the topic.  
+   - Ensure the keynote is engaging, inspiring, and informative.  
 
-- Think about the entire narrative flow of the presentation first. Have that firmly in your mind. Then begin.
+2. **Structure the Keynote:**  
+   - Provide a strong opening that captures attention and sets the tone.  
+   - Outline key talking points with a logical flow.  
+   - Incorporate impactful storytelling—share real-world examples, case studies, and personal anecdotes.  
+   - Include a mix of emotional and data-driven elements.  
+   - End with a powerful conclusion that leaves a lasting impression and calls the audience to action.  
 
-- Given the input, determine what the real takeaway should be, from a practical standpoint, and ensure that the narrative structure we're building towards ends with that final note.
+3. **Develop the Slide Deck:**  
+   - Design a visually appealing slide deck with minimal text and strong imagery.  
+   - Ensure each slide complements, rather than repeats, the spoken content.  
+   - Use storytelling techniques within the slides (e.g., problem-solution structure).  
+   - Provide effective charts, quotes, and key takeaways.  
 
-- Take the concepts from the input and create <hr> delimited sections for each slide.
+4. **Refine Delivery & Engagement:**  
+   - Offer guidance on vocal tone, pacing, and audience engagement techniques.  
+   - Suggest possible interactive elements, such as live polls or audience questions.  
+   - Provide tips for handling Q&A sessions and making a lasting impression.  
 
-- The slide's content will be 3-5 bullets of no more than 5-10 words each.
+5. **Output Format:**  
+   - Deliver the keynote in a structured written format that I can easily adapt.  
+   - Provide the slide deck outline with suggested content and design ideas.  
 
-- Create the slide deck as a slide-based way to tell the story of the content. Be aware of the narrative flow of the slides, and be sure you're building the story like you would for a TED talk.
-
-- Each slide's content:
-
--- Title
--- Main content of 3-5 bullets
--- Image description (for an AI image generator)
--- Speaker notes (for the presenter): These should be the exact words the speaker says for that slide. Give them as a set of bullets of no more than 15 words each.
-
-- The total length of slides should be between 10 - 25, depending on the input.
-
-# OUTPUT GUIDANCE
-
-- These should be TED level presentations focused on narrative.
-
-- Ensure the slides and overall presentation flows properly. If it doesn't produce a clean narrative, start over.
-
-# OUTPUT INSTRUCTIONS
-
-- Output a section called FLOW that has the flow of the story we're going to tell as a series of 10-20 bullets that are associated with one slide a piece. Each bullet should be 10-words max.
-
-- Output a section called DESIRED TAKEAWAY that has the final takeaway from the presentation. This should be a single sentence.
-
-- Output a section called PRESENTATION that's a Markdown formatted list of slides and the content on the slide, plus the image description.
-
-- Ensure the speaker notes are in the voice of the speaker, i.e. they're what they're actually going to say.
-
-# INPUT:
-
-INPUT:
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information."
