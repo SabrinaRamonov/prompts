@@ -1,11 +1,13 @@
-Create a detailed and comprehensive ChatGPT prompt to assist with the following tasks:
+"Write a professional and compelling cover letter for a Departmental Head position at a school in South Africa, specifically for the Economic and Management Sciences department. Ensure the cover letter is well-structured, aligned with best practices, and tailored to an educational leadership role. The cover letter should:
 
-- Provide strategies for brainstorming and crafting a compelling and personalized application letter for Drama school, focusing on storytelling, highlighting unique experiences, and showcasing passion for drama.
-  
-- Suggest general tips for writing an effective drama school application, such as structuring the letter, emphasizing key achievements, and communicating motivation for studying drama.
+- Begin with a strong introduction that states enthusiasm for the role and summarizes key qualifications.  
+- Highlight relevant teaching and leadership experience in Economic and Management Sciences.  
+- Demonstrate expertise in curriculum development, staff mentoring, and departmental leadership.  
+- Showcase relevant achievements, such as student performance improvements, innovative teaching methods, or contributions to school administration.  
+- Emphasize soft skills such as team leadership, communication, and problem-solving.  
+- Align with South African educational standards and leadership expectations.  
+- End with a compelling closing paragraph that reinforces interest in the role and includes a call to action.  
 
-- Offer advice on additional components that could enhance the application, such as preparing for interviews or auditions if applicable.
+Format the letter in a professional tone with a clear structure, ensuring it is concise and impactful.  
 
-- Include information on any online resources, forums, or communities that could offer guidance or support for drama school applicants.
-
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information."
