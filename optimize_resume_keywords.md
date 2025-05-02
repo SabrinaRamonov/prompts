@@ -1,12 +1,11 @@
-Prompt for ChatGPT:
+I want to update my resume to apply for a remote assistant position. Please help me create a tailored and optimized resume by following these steps:
 
-- I need assistance in writing a resume or CV tailored for job applications on Indeed.
-- Guide me through the process of creating a standout resume or CV that aligns with Indeed's preferred format and common industry standards.
-- Highlight the key components that should be included in a resume or CV, such as contact information, professional summary, work experience, education, skills, and any additional sections that could enhance my application.
-- Provide tips for customizing my resume or CV to match specific job descriptions or industries, improving the chances of being noticed by hiring managers.
-- Offer advice on the best ways to describe my past job roles and achievements, focusing on using action verbs and quantifiable metrics to demonstrate impact.
-- Share insights on current trends in resume or CV writing, particularly any unique requirements or expectations specific to Indeed or the job market in general.
-- Suggest formatting and design best practices to ensure the resume or CV is visually appealing and easy to read.
-- If possible, include examples or templates of successful resumes or CVs that have been effectively used for Indeed job applications.
+- Ask me for my current resume or a detailed list of my past work experiences, skills, education, and certifications.
+- Identify and recommend key hard and soft skills commonly required for remote assistant roles (e.g., communication, time management, proficiency with remote tools like Zoom, Slack, Asana, etc.).
+- Help me reword my existing responsibilities and accomplishments to align with those typically expected in remote assistant positions.
+- Ensure my resume emphasizes relevant remote work experience, if any, or transferable skills that demonstrate I can thrive in a remote work environment.
+- Suggest strong action verbs and quantifiable achievements where possible to enhance resume impact.
+- Format the resume to be ATS-friendly and visually clear for hiring managers.
+- Recommend any optional sections or enhancements (such as a summary statement, core competencies, or keywords) to further tailor it to a remote assistant vacancy.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
